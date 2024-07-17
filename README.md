@@ -27,7 +27,16 @@ CoLearning is designed to address these challenges in several ways:
 CoLearning not only offers an educational platform but also builds a bridge to a better future, where all Colombians can access the opportunities that technology provides and improve their quality of life.
 
 
-#DEVELOPMENT 
+# DEVELOPMENT 
+Technologies used: NEXTJS, REACT, TAILWINDCSS, PRISMA, POSTGRESQL, AUTHJS 5, SHADCNUI
+Chapter page 
+Coding Excersice Chapter Page
+![image](https://github.com/user-attachments/assets/ac4825c9-b1a8-44eb-b568-5aecbd32ee3a)
+![image](https://github.com/user-attachments/assets/92910e58-78a6-47a0-ba09-ae25f6439414)
+output checking the expected output 
+![image](https://github.com/user-attachments/assets/7d2b4624-14cf-4473-93b7-4d3ec981a56e)
+menu with all the chapters and working to implement sections
+![image](https://github.com/user-attachments/assets/08de133c-30ab-430f-86da-4f06b4abcc70)
 
 Course setup 
 ![image](https://github.com/user-attachments/assets/fa3cb288-af35-4dda-89f1-acf605b106c5)
@@ -35,5 +44,16 @@ Course setup
 ![image](https://github.com/user-attachments/assets/5d8cb172-2435-41f9-a655-008d14f18754)
 CodeChapter is optional. We also have the option of video chapter
 ![image](https://github.com/user-attachments/assets/cd7cc751-dc37-40c9-82ef-7ecfcf9067ed)
+
+16-07 Implementation of authjs 5
+17-07 Moving from api endpoints to server actions for best nextjs 15 integration
+before API
+![image](https://github.com/user-attachments/assets/04bd186e-21b3-4c22-bd99-342fa62f1657)
+![image](https://github.com/user-attachments/assets/30b6689c-9a8b-4fd2-b537-e8fa7e3df43e)
+
+after server action
+![image](https://github.com/user-attachments/assets/503e1cdd-783a-420b-99e4-e57c452bb22e)
+![image](https://github.com/user-attachments/assets/c4670dfa-f00b-4a16-88bd-6af782fbea92)
+
 
 
