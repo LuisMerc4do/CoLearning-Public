@@ -25,3 +25,15 @@ CoLearning is designed to address these challenges in several ways:
 - Knowledge and Awareness: Through our courses, students will discover the various opportunities technology offers, from website creation to software engineering, expanding their horizons and professional aspirations.
 
 CoLearning not only offers an educational platform but also builds a bridge to a better future, where all Colombians can access the opportunities that technology provides and improve their quality of life.
+
+
+#DEVELOPMENT 
+
+Course setup 
+![image](https://github.com/user-attachments/assets/fa3cb288-af35-4dda-89f1-acf605b106c5)
+![image](https://github.com/user-attachments/assets/79a2ac35-2aaf-4707-9471-592655bb99b3)
+![image](https://github.com/user-attachments/assets/5d8cb172-2435-41f9-a655-008d14f18754)
+CodeChapter is optional. We also have the option of video chapter
+![image](https://github.com/user-attachments/assets/cd7cc751-dc37-40c9-82ef-7ecfcf9067ed)
+
+
