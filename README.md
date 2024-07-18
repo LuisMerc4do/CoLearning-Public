@@ -48,11 +48,21 @@ CodeChapter is optional. We also have the option of video chapter
 16-07 Implementation of authjs 5
 17-07 Moving from api endpoints to server actions for best nextjs 15 integration
 before API
+
+
 ![image](https://github.com/user-attachments/assets/04bd186e-21b3-4c22-bd99-342fa62f1657)
+
+
 ![image](https://github.com/user-attachments/assets/30b6689c-9a8b-4fd2-b537-e8fa7e3df43e)
 
+
+
 after server action
+
+
 ![image](https://github.com/user-attachments/assets/503e1cdd-783a-420b-99e4-e57c452bb22e)
+
+
 ![image](https://github.com/user-attachments/assets/c4670dfa-f00b-4a16-88bd-6af782fbea92)
 
 
