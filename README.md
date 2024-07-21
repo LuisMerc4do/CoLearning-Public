@@ -69,8 +69,11 @@ after server action
 # update 19/07
 
 I worked more on the implementation of the login and signup page, usign jwt for the authentication token, ensuring more security for each account avoiding data leaks. Right now the design is just a template from the shadcn page but the functionality of signup and login is mostly done. I thought about email or mobile verification but my audience is not very used to it so i'll find other alternatives to avoid spams like captcha or something like that. 
-![Captura de pantalla 2024-07-21 114222](https://github.![Captura de pantalla 2024-07-21 114211](https://github.com/user-attachments/assets/08ffdbd0-9878-48bc-a11e-faf9384d8bd3)
-com/user-attachments/assets/ede512bf-4c48-46dd-a7bb-0046c09785bf)
 
 
-update 21/07, I have been working on the course page for the past few days, I have watched some inspiration for the brand design and how can i build the webpage, this are some advances: 
+# updat![Captura de pantalla 2024-07-21 114222](https://github.com/user-attachments/assets/0e502e57-3d2b-46af-bdd4-8464680991c5)
+
+
+e 21/07
+
+I have been working on the course page for the past few days, I have watched some inspiration for the brand design and how can i build the webpage, this are some advances: 
