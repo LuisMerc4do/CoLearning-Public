@@ -95,4 +95,8 @@ I worked a bit on the main hero page, I put some animations usign Magic UI, i'm 
 
 ![Recording 2024-07-21 at 12 32 58](https://github.com/user-attachments/assets/334debe5-2ec0-428a-83a3-29b83260e9a0)
 
+# update 22/07 
+Okay today is weekend so I don't have to work, i've been working on the course page, I recon that I spent more time thinking about the design than actually coding it. I like the form is taking, very modern. 
+
+![Recording 2024-07-21 at 15 33 27 (1)](https://github.com/user-attachments/assets/8ccde73b-704b-4b00-87e0-a8e8c5fdd9c2)
 
