@@ -28,9 +28,11 @@ CoLearning not only offers an educational platform but also builds a bridge to a
 
 
 # DEVELOPMENT 
-Technologies used: NEXTJS, REACT, TAILWINDCSS, PRISMA, POSTGRESQL, AUTHJS 5, SHADCNUI
-Chapter page 
-Coding Excersice Chapter Page
+## Technologies used: NEXTJS, REACT, TAILWINDCSS, PRISMA, POSTGRESQL, AUTHJS 5, SHADCNUI
+
+
+## Chapter page 
+## Coding Excersice Chapter Page
 ![image](https://github.com/user-attachments/assets/ac4825c9-b1a8-44eb-b568-5aecbd32ee3a)
 ![image](https://github.com/user-attachments/assets/92910e58-78a6-47a0-ba09-ae25f6439414)
 output checking the expected output 
@@ -38,7 +40,7 @@ output checking the expected output
 menu with all the chapters and working to implement sections
 ![image](https://github.com/user-attachments/assets/08de133c-30ab-430f-86da-4f06b4abcc70)
 
-Course setup 
+## Course setup 
 ![image](https://github.com/user-attachments/assets/fa3cb288-af35-4dda-89f1-acf605b106c5)
 ![image](https://github.com/user-attachments/assets/79a2ac35-2aaf-4707-9471-592655bb99b3)
 ![image](https://github.com/user-attachments/assets/5d8cb172-2435-41f9-a655-008d14f18754)
@@ -47,8 +49,12 @@ CodeChapter is optional. We also have the option of video chapter
 
 This is the end of Initial structure, I didn't track my process step by step of my development until here, I do have my github commits with all the descriptions but not organized in a changelog like this.
 # update 16-07 Implementation of authjs 5
+## Was a bit challenging Authjs is a consistent way to authenticate the user with nextjs but the documentation is a bit unclear at the moment, I had to watch many videos in youtube and stackoverflow to properly implement it.
+
 # update 17-07 Moving from api endpoints to server actions for best nextjs 15 integration
-before API
+## The whole thing with server actions is paradigm changer, I used to work with react but usign a separate backend, asp.net or node.js, usign the typical endpoints, fetching an endpoint and getting a response back, now with nextjs everything is different now we have something called served actions which is basically the usage of backend and frontend in the same environment, so basically you can have a server action, this works like an object (it looks like any other tsx or js function) you can fetch a table of courses and returning all the courses. And basically the main point of this is that you can call that server action in your server component and work with that data straight away without needing to fetch any endpoint. It's so easy to work like this. You have to focus most in the logic and how to fetch, protect and avoid leaks thank properly fetching and conecting backend with frontend. And I'm telling you I used to work with asp.net and react, I know about problems while connecting back with front.
+
+## So it looked a bit like this before
 
 
 ![image](https://github.com/user-attachments/assets/04bd186e-21b3-4c22-bd99-342fa62f1657)
@@ -58,7 +64,7 @@ before API
 
 
 
-after server action
+## Now it looks like this
 
 
 ![image](https://github.com/user-attachments/assets/503e1cdd-783a-420b-99e4-e57c452bb22e)
@@ -71,9 +77,17 @@ after server action
 I worked more on the implementation of the login and signup page, usign jwt for the authentication token, ensuring more security for each account avoiding data leaks. Right now the design is just a template from the shadcn page but the functionality of signup and login is mostly done. I thought about email or mobile verification but my audience is not very used to it so i'll find other alternatives to avoid spams like captcha or something like that. 
 
 
-# updat![Captura de pantalla 2024-07-21 114222](https://github.com/user-attachments/assets/0e502e57-3d2b-46af-bdd4-8464680991c5)
+![Captura de pantalla 2024-07-21 114222](https://github.com/user-attachments/assets/0e502e57-3d2b-46af-bdd4-8464680991c5)
+![Captura de pantalla 2024-07-21 114211](https://github.com/user-attachments/assets/6c80fdee-6a35-4e5b-9942-ab88bebaf04f)
 
 
-e 21/07
 
-I have been working on the course page for the past few days, I have watched some inspiration for the brand design and how can i build the webpage, this are some advances: 
+# update 21/07
+
+I have been working on the course page for the past few days, the text is completely functional and it fetchs the data from the database. I have watched some inspiration for the brand design and how can i build the webpage, here are some updates: 
+
+![Captura de pantalla 2024-07-21 121407](https://github.com/user-attachments/assets/dd282741-4b87-4466-a33c-7e7862ba06b4)
+
+# update 22/07
+
+I worked a bit on the main hero page, I got 
