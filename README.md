@@ -30,7 +30,7 @@ CoLearning not only offers an educational platform but also builds a bridge to a
 # DEVELOPMENT 
 ## Technologies used: NEXTJS, REACT, TAILWINDCSS, PRISMA, POSTGRESQL, AUTHJS 5, SHADCNUI
 
-
+### Sorry for the mix of spanish and english, the code is all in english but the webpage is in spanish so at the moment of writing the text my brain gets crazy.
 ## Chapter page 
 ## Coding Excersice Chapter Page
 ![image](https://github.com/user-attachments/assets/ac4825c9-b1a8-44eb-b568-5aecbd32ee3a)
