@@ -35,24 +35,25 @@ CoLearning not only offers an educational platform but also builds a bridge to a
 ## Coding Excersice Chapter Page
 ![image](https://github.com/user-attachments/assets/ac4825c9-b1a8-44eb-b568-5aecbd32ee3a)
 ![image](https://github.com/user-attachments/assets/92910e58-78a6-47a0-ba09-ae25f6439414)
-output checking the expected output 
+### output checking the expected output 
 ![image](https://github.com/user-attachments/assets/7d2b4624-14cf-4473-93b7-4d3ec981a56e)
-menu with all the chapters and working to implement sections
+### menu with all the chapters and working to implement sections
 ![image](https://github.com/user-attachments/assets/08de133c-30ab-430f-86da-4f06b4abcc70)
 
 ## Course setup 
 ![image](https://github.com/user-attachments/assets/fa3cb288-af35-4dda-89f1-acf605b106c5)
 ![image](https://github.com/user-attachments/assets/79a2ac35-2aaf-4707-9471-592655bb99b3)
 ![image](https://github.com/user-attachments/assets/5d8cb172-2435-41f9-a655-008d14f18754)
-CodeChapter is optional. We also have the option of video chapter
+### CodeChapter is optional. We also have the option of video chapter
 ![image](https://github.com/user-attachments/assets/cd7cc751-dc37-40c9-82ef-7ecfcf9067ed)
 
-This is the end of Initial structure, I didn't track my process step by step of my development until here, I do have my github commits with all the descriptions but not organized in a changelog like this.
+### This is the end of Initial structure, I didn't track my process step by step of my development until here, I do have my github commits with all the descriptions but not organized in a changelog like this.
 # update 16-07 Implementation of authjs 5
-## Was a bit challenging Authjs is a consistent way to authenticate the user with nextjs but the documentation is a bit unclear at the moment, I had to watch many videos in youtube and stackoverflow to properly implement it.
+### Was a bit challenging Authjs is a consistent way to authenticate the user with nextjs but the documentation is a bit unclear at the moment, I had to watch many videos in youtube and stackoverflow to properly implement it.
 
 # update 17-07 Moving from api endpoints to server actions for best nextjs 15 integration
-## The whole thing with server actions is paradigm changer, I used to work with react but usign a separate backend, asp.net or node.js, usign the typical endpoints, fetching an endpoint and getting a response back, now with nextjs everything is different now we have something called served actions which is basically the usage of backend and frontend in the same environment, so basically you can have a server action, this works like an object (it looks like any other tsx or js function) you can fetch a table of courses and returning all the courses. And basically the main point of this is that you can call that server action in your server component and work with that data straight away without needing to fetch any endpoint. It's so easy to work like this. You have to focus most in the logic and how to fetch, protect and avoid leaks thank properly fetching and conecting backend with frontend. And I'm telling you I used to work with asp.net and react, I know about problems while connecting back with front.
+
+The whole thing with server actions is paradigm changer, I used to work with react but usign a separate backend, asp.net or node.js, usign the typical endpoints, fetching an endpoint and getting a response back, now with nextjs everything is different now we have something called served actions which is basically the usage of backend and frontend in the same environment, so basically you can have a server action, this works like an object (it looks like any other tsx or js function) you can fetch a table of courses and returning all the courses. And basically the main point of this is that you can call that server action in your server component and work with that data straight away without needing to fetch any endpoint. It's so easy to work like this. You have to focus most in the logic and how to fetch, protect and avoid leaks thank properly fetching and conecting backend with frontend. And I'm telling you I used to work with asp.net and react, I know about problems while connecting back with front.
 
 ## So it looked a bit like this before
 
