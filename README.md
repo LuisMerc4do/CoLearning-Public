@@ -91,4 +91,8 @@ I have been working on the course page for the past few days, the text is comple
 
 # update 22/07
 
-I worked a bit on the main hero page, I got 
+I worked a bit on the main hero page, I put some animations usign Magic UI, i'm planning to use framer motion for a few more things in the future, i'm planning to make the webpage as much efficient as possible, even my Nokia 1990 will run it.  
+
+![Recording 2024-07-21 at 12 30 14](https://github.com/user-attachments/assets/8a29fe5d-6ccf-43b4-99d8-7e77cbbd80fd)
+
+
