@@ -100,8 +100,15 @@ Okay today is weekend so I don't have to work, i've been working on the course p
 
 ![Recording 2024-07-21 at 15 33 27 (1)](https://github.com/user-attachments/assets/8ccde73b-704b-4b00-87e0-a8e8c5fdd9c2)
 
-# update 24/07 
+# update 23/07 
 
-I am working now on the login page, the design and header is still in progress, I'm still considering new options for the general design and personality of the webpage, until then I'm focusing on the main functionalities for early deployment. Is not that I don't like the design I'm usign now is just that I don't really know if it's the best I can do for a project like this. I feel like i need something more engaging
+I am working now on the login page, the design and header is still in progress, I'm still considering new options for the general design and personality of the webpage, until then I'm focusing on the main functionalities for early deployment. Is not that I don't like the design I'm usign now is just that I don't really know if it's the best I can do for a project like this. I feel like i need something more engaging. Oh btw I removed the container on the header. I just feel like doing it.
 
 ![Captura de pantalla 2024-07-24 175125](https://github.com/user-attachments/assets/25352fac-3ca0-461e-815e-a2f2414dbeda)
+
+# update 24/07
+
+
+I am also working on the header, I already implementated a different header when user is logged in, with an avatar component from shadcn and a dropdown menu, it's already connected with the db so 0 problems. I started working on the control panel and i need to implement the idea I have for the login to not think about authentication and user control for a while and focus on finishing the main functionalities for courses. 
+
+![Captura de pantalla 2024-07-24 175555](https://github.com/user-attachments/assets/37efa6f3-8ed9-4bed-9529-840157f8f3c4)
