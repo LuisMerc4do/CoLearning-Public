@@ -112,3 +112,10 @@ I am working now on the login page, the design and header is still in progress, 
 I am also working on the header, I already implementated a different header when user is logged in, with an avatar component from shadcn and a dropdown menu, it's already connected with the db so 0 problems. I started working on the control panel and i need to implement the idea I have for the login to not think about authentication and user control for a while and focus on finishing the main functionalities for courses. 
 
 ![Captura de pantalla 2024-07-24 175555](https://github.com/user-attachments/assets/37efa6f3-8ed9-4bed-9529-840157f8f3c4)
+
+# update 25/07
+
+I spent the whole day trying to create a design I like in figma with background animations and all of that stuff but I didn't like anything so basically I waste part of my day, I don't want to continue with secondary functionalities until I have a predefined idea of what i want to create in terms of design, I'm getting there, one day at a time. I'm not frustrated, on the other hand, I implemented the course information that will be shown in the course page. I didnt have this functionality before so yeah. 
+
+
+![Captura de pantalla 2024-07-25 200633](https://github.com/user-attachments/assets/a24c82b7-289d-4386-b54b-36d7ca71fb7f)
