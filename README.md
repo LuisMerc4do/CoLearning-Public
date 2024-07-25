@@ -30,6 +30,12 @@ CoLearning not only offers an educational platform but also builds a bridge to a
 # DEVELOPMENT 
 ## Technologies used: NEXTJS, REACT, TAILWINDCSS, PRISMA, POSTGRESQL, AUTHJS 5, SHADCNUI
 
+# Before you Continue... 
+### You might be wondering why you used a full-stack "environment” like Nextjs when is a better long-term solution to having a separate backend, well, for adaptability, usability, and easy implementation. I don't discard the option of having a separate backend for some of the functionalities of the app but right now I consider that the requirements of the app are completely fulfilled by using next.js
+
+## So Why Next.Js without a backend? 
+### Well, my app is mostly repetitive tasks and doesn’t need to use a huge amount of data, the response times are
+not necessarily long, fetching courses, user information, and chapter information is not a big deal in terms of needing an special and elastic backend server for this. Yes I am thinking about expanding my app but 
 ### Sorry for the mix of spanish and english, the code is all in english but the webpage is in spanish so at the moment of writing the text my brain gets crazy.
 ## Chapter page 
 ## Coding Excersice Chapter Page
