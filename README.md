@@ -125,3 +125,16 @@ I spent the whole day trying to create a design I like in figma with background 
 
 
 ![Captura de pantalla 2024-07-25 200633](https://github.com/user-attachments/assets/a24c82b7-289d-4386-b54b-36d7ca71fb7f)
+
+# update 26/07 
+
+So, Today is friday, I decided to work a bit on the course page, change a few things I didn't like enough so this is the result, with this I feel that the whole page in general is taking a good shape, I have to implement a few more things to make it look better:
+
+![Captura de pantalla 2024-07-27 173108](https://github.com/user-attachments/assets/731d24b8-bf94-4eaa-ae46-90d43b54c975)
+
+# update 27/07 
+
+I spent the whole day working on the code chapter page. And I am very proud of myself, it wasn't easy, I changed from monaco to code mirror, I redesigned the whole page and I think right now is completely functional, I just need to change the navbar and add a few more details.
+
+
+![Recording 2024-07-27 at 17 21 02](https://github.com/user-attachments/assets/25c95935-720b-41ea-a456-7a6fd606443c)
