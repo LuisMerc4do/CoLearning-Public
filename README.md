@@ -138,3 +138,10 @@ I spent the whole day working on the code chapter page. And I am very proud of m
 
 
 ![Recording 2024-07-27 at 17 21 02](https://github.com/user-attachments/assets/25c95935-720b-41ea-a456-7a6fd606443c)
+
+
+# update 29/07
+
+I couldn't work on the project yesterday, but today i feel more motivated than ever, finally I found colors I like, I feel like I will put the dark mode as the main mode, It's just more apropiate the coding environment with dark colors 
+
+![Captura de pantalla 2024-07-29 212421](https://github.com/user-attachments/assets/1382bd41-7ea6-4ef7-aca7-1f03ce1bdc2b)
