@@ -145,3 +145,10 @@ I spent the whole day working on the code chapter page. And I am very proud of m
 I couldn't work on the project yesterday, but today i feel more motivated than ever, finally I found colors I like, I feel like I will put the dark mode as the main mode, It's just more apropiate the coding environment with dark colors 
 
 ![Captura de pantalla 2024-07-29 212421](https://github.com/user-attachments/assets/1382bd41-7ea6-4ef7-aca7-1f03ce1bdc2b)
+
+# update 31/07
+
+After a few changes I am going to leave the ide like this and I will focus on other things, at the moment I think this is good enough. 
+
+
+![IDEColearning](https://github.com/user-attachments/assets/2c506c1a-c1fa-424f-a833-183e9659d47d)
