@@ -1,6 +1,6 @@
 # CoLearning
 
-
+## At the moment I am in talks according the first implementation of Colearning
 # What is CoLearning?
 
 
