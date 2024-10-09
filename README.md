@@ -7,6 +7,7 @@
 CoLearning is a free online technology learning platform designed to reduce educational inequalities and offer new growth opportunities to all Colombians. CoLearning represents a new way of thinking about education, prioritizing the learning of emerging technologies and their application in solving real-world problems. Additionally, it fosters innovation and entrepreneurship by providing students with the necessary tools to turn their ideas into concrete projects.
 
 
+
 # Why CoLearning?
 
 
